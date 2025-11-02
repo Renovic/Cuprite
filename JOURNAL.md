@@ -161,3 +161,20 @@ Then I wanted to see how the gantry looked, so I made a gantry assembly and put 
 **Total: 31**
   
 
+## 11/2/2025 - Designing Rear Motor Mounts  
+
+# Day 6 - Rear Motor Mounts (Nov 1st)
+I was really confused about how to design the CNC belt tensioner for a while. But I finally had an idea to use slots to guide the tensioner, have a countersunk M3 screw to mount the tensioner bearing stack pin, and M5 bolts to clamp the tensioner in place. 
+
+These took way longer than I expected because of the amount of hardware required for this part.
+
+![Screenshot 2025-11-02 011219](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--bcefb5c36fa6ee5d0b3f645f03aae02cbfe5eea5/Screenshot%202025-11-02%20011219.png)
+
+![Screenshot 2025-11-02 011228](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY1MywicHVyIjoiYmxvYl9pZCJ9fQ==--4e26eff45344f1e6b34aaa3c53561a2c44ac2237/Screenshot%202025-11-02%20011228.png)
+
+![Screenshot 2025-11-02 011320](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--4266998a956b677dd8bd38c1a9a8ae180ae2245c/Screenshot%202025-11-02%20011320.png)
+
+
+**Hours Spent: 6**
+**Total: 37**  
+
