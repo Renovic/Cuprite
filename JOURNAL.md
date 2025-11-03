@@ -178,3 +178,22 @@ These took way longer than I expected because of the amount of hardware required
 **Hours Spent: 6**
 **Total: 37**  
 
+## 11/3/2025 - Bed Assembly, Front Z drives  
+
+# Day 7 - Bed Assembly, Front Z drives (Nov 2nd)
+I started by designing the bed assembly. It uses a sheet metal carriage and some CNC components to mount the bed and 8mm rods that will be used for kinematic coupling. 
+
+![Screenshot 2025-11-03 025123](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--158119e7dfd061303d6a92a7588e4de87fa913b5/Screenshot%202025-11-03%20025123.png)
+
+Then I designed the front Z drives that use G2Z planetary gearboxes for precise Z motion. Part of the design was making sure the part is entirely sealed so air from the chamber can't leak into the bottom electronics area. 
+
+![Screenshot 2025-11-03 025142](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--5824c321ae0b30726b4a15f160d232415902b5c8/Screenshot%202025-11-03%20025142.png)
+
+![Screenshot 2025-11-03 025812](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk4MywicHVyIjoiYmxvYl9pZCJ9fQ==--0a98c63935e57090ccec05eaa4ebf0d3d49cec5b/Screenshot%202025-11-03%20025812.png)
+
+
+![Screenshot 2025-11-03 025301](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--7a73cc55d3f909641543b7a6ce8d95b53775e530/Screenshot%202025-11-03%20025301.png)
+
+**Hours Spent: 6.5**
+**Total: 43.5**  
+
