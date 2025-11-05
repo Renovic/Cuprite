@@ -197,3 +197,37 @@ Then I designed the front Z drives that use G2Z planetary gearboxes for precise 
 **Hours Spent: 6.5**
 **Total: 43.5**  
 
+## 11/5/2025 - Day 8 - Back Z drives, Tweaks to Z axis, More research  
+
+# Day 8 - (Nov 4th)
+I started with designing the rear Z drive, and this was pretty similar to the front Z drives, but mounted differently. 
+
+![Screenshot 2025-11-04 230311](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--5be7f9d2434cab6d6118dcdfd3633e31bbc5f3ea/Screenshot%202025-11-04%20230311.png)
+
+Then I started thinking about how I was going to do the Z belt tensioners. Although I originally just planned on designing a belt tensioner similar to the Annex K3 z-axis tensioners, I wanted to see if there was something more compact. So I did some research and found Hex 0 had some very compact belt tensioners. 
+
+![Screenshot 2025-11-05 015502](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU0MywicHVyIjoiYmxvYl9pZCJ9fQ==--331a635a3082f91ae05853447254000c8f9e3850/Screenshot%202025-11-05%20015502.png)
+
+These tensioners pressed the belt against the linear rail carriage and had one part slide to adjust tension. The Hex 0 z drives used 6mm belts and mgn7 rails, so I was a bit concerned about whether this would work. But thankfully, I found that the mgn12 rails had enough width for 9mm belts. I had to adjust the front z drive pulley location to make the belt line up with the edge of the carriage. I also added some channels for wires to come down the vertical 4040 extrusions, and go to the stepper. ![Screenshot 2025-11-04 235326](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--876276b9c8d5368fff185ae42a6fce53f5850307/Screenshot%202025-11-04%20235326.png)
+
+![Screenshot 2025-11-05 015743](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--8c79587b6fcdfff745e4e6c8985223651107ee72/Screenshot%202025-11-05%20015743.png)
+
+Then I went to make some tweaks to the bed carriage. I was a little concerened about the weight because I was using 3/8" thick aluminum and my original design was very beefy, so I checked and it was 400 grams. I decided to redesign it to be a little simpler and much lighter, and it ended up being 250 grams.
+
+ ![Screenshot 2025-11-05 005224](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--45b620fbb12bfbc3b54fa622bc409acf1187292a/Screenshot%202025-11-05%20005224.png)
+
+![Screenshot 2025-11-05 005230](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU0NywicHVyIjoiYmxvYl9pZCJ9fQ==--9b026b3acd3cd7b530bb86b8046accde9442c055/Screenshot%202025-11-05%20005230.png)
+
+Finally, I started thinking about how I would get the most travel possible. So I measured out the toolhead length, z joint length and bed height and found that I only had 104mm of travel. The 200mm rail I have has a full travel of 150mm, so Im losing out on a lot. My two ideas so far are to raise the rod mounts on the bed assembly, to effectively drop the bed down, or redesign the z joints with the bearing further down. 
+
+For reference: my original z joints (I have to redesign these for slm printing, different tensioner, and 9mm belts)
+![Screenshot 2025-11-05 020336](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--1499f1a31eabd690886532723fd43eb77534da83/Screenshot%202025-11-05%20020336.png)
+
+** Hours Spent: 5.5 **
+** Total Hours: 49 **
+
+
+
+
+  
+
