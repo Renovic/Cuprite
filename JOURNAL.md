@@ -231,3 +231,27 @@ For reference: my original z joints (I have to redesign these for slm printing, 
 
   
 
+## 11/6/2025 - Day 9 - Front Z Joint   
+
+# Day 9 - (Nov 5th)
+My main goal was to finish the z joints, but this one z joint took a lot longer than I was expecting. 
+Yesterday, I found that the bed travel would be significantly limited if I went with my previous idea of the 8mm rods resting on top of the z joint rails, so I was trying to come up with a way to move the 8mm rod mount further down to increase Z travel. Eventually, I came up with a decent idea and designed it. 
+![Screenshot 2025-11-06 023158](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--c91b687026087d696e1ba412b3400f9691fda486/Screenshot%202025-11-06%20023158.png)
+
+![Screenshot 2025-11-06 023204](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--a898b824d4fe5bdc19331b484a1d8f99f50039f6/Screenshot%202025-11-06%20023204.png)
+
+![Screenshot 2025-11-06 023259](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgzMywicHVyIjoiYmxvYl9pZCJ9fQ==--9583d368774a77e5f2499ea3fe223d689718e06a/Screenshot%202025-11-06%20023259.png)
+
+![Screenshot 2025-11-06 023345](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--33d627bbb29b2cf25b444b58be9ffd3ee2b176ba/Screenshot%202025-11-06%20023345.png)
+
+With this design I should be able to get 135mm of travel, which I think is acceptable. The only way I can increase z travel after this is by decreasing the bed assembly thickness (currently 30mm), or increasing the height of the overall printer, which I don't think is worth it for an extra 15mm of travel.
+
+I also had to adjust the bed carriage again slightly to match the new position of the 8mm rod mounts. 
+
+The problem with this design is that I don't have a spring keeping the 8mm rod pressed against the bearings. The bed's weight will hold it down, but it is only a 160mm bed so it isn't very heavy, so I need some springs to hold it down. I wasn't sure how to implement it while designing the main part of the Z joint, so I'll try to add it next time.  
+
+
+**Hours Spent: 3**
+**Total Hours: 52**
+  
+
