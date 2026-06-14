@@ -2,8 +2,7 @@
 
 160mm^3 High speed corexy
 
-<img width="1600" height="1200" alt="Toolhead_Focus_Cuprite" src="https://github.com/user-attachments/assets/4da86686-0a3b-4680-99f1-c2d6e73032b8" />
-
+<img width="1122" height="842" alt="Cuprite_V2_2026-Jun-14_01-05-33AM-000_CustomizedView40187612621_png" src="https://github.com/user-attachments/assets/fc7aa2cc-a4e0-41e4-9aa7-26b93f19dbe2" />
 
 
 * [Design Components](#design-components)
@@ -18,7 +17,7 @@
 - [PCB Gerbers](PCB/Cuprite_ADXL_gerbers.zip)
 - Bom soon
 
-<img width="1633" height="1057" alt="Cuprite v28" src="https://github.com/user-attachments/assets/f74e0692-8187-4863-8bf5-a33d90ebe6fd" />
+<img width="929" height="697" alt="Cuprite_V2_2026-Jun-14_02-33-42AM-000_CustomizedView3197305272_png" src="https://github.com/user-attachments/assets/0c9abdee-d9ac-48d5-9fd8-d783f91bdd22" />
 
 
 ### Sponsors
