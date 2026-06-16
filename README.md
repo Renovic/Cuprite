@@ -78,5 +78,6 @@ The LDO leviathan + extension board has enough ports for all of the components, 
 - Scarecrow for fan information and CAD: https://github.com/Thescarecow/130K-RPM-28mm-ducted-fan-Cad-COM
 - Hex-Zero for Z tensioner: https://github.com/Alexander-T-Moss/Hex-Zero
 - Chamber Heater Mount: https://github.com/GiulianoM/PTC_Heater_Mount
+- ADXL: https://github.com/xbst/KUSBA-PRO
 - LED Strip Holder: https://www.printables.com/model/84735-led-strip-holder-for-voron-24
 - Also big thanks to anyone who provided feedback on any of my designs
