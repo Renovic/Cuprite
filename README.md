@@ -7,14 +7,13 @@
 
 * [Design Components](#design-components)
 * [Design Reasoning](#why-did-i-design-this)
-* 
-* [BOM](#bom)
+* [BOM](<Cuprite BOM.csv>)
 
 ## Files
 - [CAD (F3Z)](CAD/Cuprite.f3z)
 - [CAD (STEP)](CAD/Cuprite.step)
 - [PCB Gerbers](PCB/Cuprite_ADXL_gerbers.zip)
-- Bom soon
+- [BOM](<Cuprite BOM.csv>)
 
 <img width="420" height="595" alt="A5 - 1" src="https://github.com/user-attachments/assets/837b9a83-0750-4f6c-baa8-a9f89dc37416" />
 
@@ -69,8 +68,6 @@ My build is pretty unique, so I dont expect people to build a similar printer, h
 
 ## Wiring?
 The LDO leviathan + extension board has enough ports for all of the components, so its simply pluging into the correct ports. The only other wiring is ssrs for heatbed and chamber heater.
-
-## BOM:
 
 ## Inspiration/References:
 - Monolith Gantry: https://github.com/Monolith3D/Monolith_Gantry
