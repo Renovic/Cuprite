@@ -7,13 +7,13 @@
 
 * [Design Components](#design-components)
 * [Design Reasoning](#why-did-i-design-this)
-* [BOM](<Cuprite BOM.csv>)
+* [BOM](<BOM.csv>)
 
 ## Files
 - [CAD (F3Z)](CAD/Cuprite.f3z)
 - [CAD (STEP)](CAD/Cuprite.step)
 - [PCB Gerbers](PCB/Cuprite_ADXL_gerbers.zip)
-- [BOM](<Cuprite BOM.csv>)
+- [BOM](<BOM.csv>)
 
 <img width="420" height="595" alt="A5 - 1" src="https://github.com/user-attachments/assets/837b9a83-0750-4f6c-baa8-a9f89dc37416" />
 
