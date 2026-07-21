@@ -21,7 +21,7 @@
 
 
 ### Sponsors
-* [Hack Club (Blueprint)](https://highway.hackclub.com/) 
+* [Hack Club (Fallout)](https://fallout.hackclub.com/) 
 * [Sunlu](https://www.sunlu.com/)
 * [OSHWLAB(JLCPCB)](https://oshwlab.com/activities/stars)
 * [LDO](https://ldomotion.com/)
