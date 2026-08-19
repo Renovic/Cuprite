@@ -4,6 +4,8 @@
 
 <img width="1122" height="842" alt="Cuprite_V2_2026-Jun-14_01-05-33AM-000_CustomizedView40187612621_png" src="https://github.com/user-attachments/assets/fc7aa2cc-a4e0-41e4-9aa7-26b93f19dbe2" />
 
+<img width="1539" height="2044" alt="PXL_20260819_033316022" src="https://github.com/user-attachments/assets/0bd700e5-6b53-4acc-bfc6-16eb76ad213d" />
+
 
 * [Design Components](#design-components)
 * [Design Reasoning](#why-did-i-design-this)
